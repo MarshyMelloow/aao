@@ -15,7 +15,7 @@ color a
 echo Starting FiveM
 start https://cfx.re/join/mm567a
 echo Starting Inter Webs
-cd C:\FiveMAPD\app
+cd C:\Users\%USERNAME%\aao\app\
 start interwebs.bat
 echo Success
 cd ..
