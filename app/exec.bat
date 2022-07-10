@@ -1,5 +1,8 @@
 echo off
 git pull https://github.com/MarshyMelloow/aao production
+REM cd .. 
+REM cd install
+REM start install.bat
 color 4
 title Strting FiveM, Teamspeak, and Cad...
 color a 
@@ -13,7 +16,7 @@ echo Starting FiveM
 start https://cfx.re/join/mm567a
 echo Starting Inter Webs
 cd C:\FiveMAPD\app
-start TxAdmin.bat
+start interwebs.bat
 echo Success
 cd ..
 cd app
